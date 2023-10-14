@@ -2,6 +2,8 @@
 
 Este é um sistema de gerenciamento de ordens de produção para uma fábrica. Ele permite que você registre ordens de produção, liste as ordens existentes, verifique a disponibilidade de materiais, atualize o status das ordens e gere relatórios de produção.
 
+![image](https://github.com/ReFNN/gerenciamento-de-ordem-de-producao/assets/99556005/b1aa3e39-615d-498a-b36b-41783742908e)
+
 ## Requisitos Técnicos
 
 - Linguagem de programação: Python
